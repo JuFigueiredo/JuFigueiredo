@@ -25,6 +25,7 @@ I'm a RPA Developer
 - Python
 - SAP Hana Service Layer
 - SAP SQL DI API (C#)
+- SOAP and REST APIs
 
 **Hobbies:**
 
