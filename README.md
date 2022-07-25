@@ -20,9 +20,14 @@ I'm a RPA Developer
 
 - C#
 - T-SQL
+- MySQL
+- MongoDB
 - Python
+- SAP Hana Service Layer
+- SAP SQL DI API (C#)
 
 **Hobbies:**
+
 - Dart
 - Flutter
 - Machine Learning
