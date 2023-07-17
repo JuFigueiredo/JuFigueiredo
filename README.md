@@ -14,7 +14,8 @@
   - Certification Level II
   - Certification Level III
 - SAP GUI Scripting
-- Javascript
+- Python
+- Azure Plataform
 
 **Some other skills:**
 
